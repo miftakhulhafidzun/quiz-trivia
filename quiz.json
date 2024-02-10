@@ -1,0 +1,43 @@
+[
+    [
+      "Android Studio adalah Integrated Development Environment (IDE) resmi untuk pengembangan aplikasi Android.",
+      true
+    ],
+    [
+      "Activity dalam Android mewakili antarmuka pengguna (UI) dan interaksi dalam sebuah aplikasi.",
+      true
+    ],
+    [
+      "Java Virtual Machine (JVM) digunakan untuk menjalankan aplikasi Android.",
+      false
+    ],
+    [
+      "RecyclerView adalah versi lebih canggih dari ListView di Android, memberikan kinerja dan fleksibilitas yang lebih baik.",
+      true
+    ],
+    [
+      "XML biasanya digunakan dalam pengembangan Android untuk mendefinisikan layout dan elemen UI.",
+      true
+    ],
+    [
+      "Dalam Android, layanan digunakan untuk melakukan tugas latar belakang tanpa menyediakan antarmuka pengguna.",
+      true
+    ],
+    [
+      "Aplikasi Android hanya dapat ditulis dalam bahasa pemrograman Java.",
+      false
+    ],
+    [
+      "Gradle adalah alat otomatisasi pembangunan yang digunakan di Android Studio untuk membangun aplikasi Android.",
+      true
+    ],
+    [
+      "Fragment dalam Android selalu terdapat dalam sebuah activity.",
+      true
+    ],
+    [
+      "File AndroidManifest.xml digunakan untuk mendeklarasikan izin, activity, layanan, dll., dari sebuah aplikasi Android.",
+      true
+    ]
+  ]
+  
